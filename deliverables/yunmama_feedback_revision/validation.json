@@ -1,0 +1,72 @@
+{
+  "pages": 11,
+  "punctuation_removed": true,
+  "html_text_overflow": 0,
+  "pptx_conversion_pages": 11,
+  "summary_layout_preserved": true,
+  "images": [
+    {
+      "page": 5,
+      "file": "IMG_2197(2).jpeg",
+      "sha256": "76cfea5a85bae4635f5c8dff4c780d9fb1c600ad3b8c49c60747be52b8dbefb3",
+      "unchanged_bytes": true,
+      "cropping": false
+    },
+    {
+      "page": 5,
+      "file": "IMG_2199(2).jpeg",
+      "sha256": "c7397869b8913f1f81891c69c2f5b50df645c8a3fa35689acd1f25878e20d085",
+      "unchanged_bytes": true,
+      "cropping": false
+    },
+    {
+      "page": 5,
+      "file": "IMG_2201(2).jpeg",
+      "sha256": "b76f83ddeef9f335cd885d6fb4a3073589ffbc08d787db6000266807a32ba5ff",
+      "unchanged_bytes": true,
+      "cropping": false
+    },
+    {
+      "page": 7,
+      "file": "IMG_2209(3).jpeg",
+      "sha256": "17a3ae9e4fe9865a933d2bf2fb57054fb31cadcf09ce3c3d16505c2c236ad6ae",
+      "unchanged_bytes": true,
+      "cropping": false
+    },
+    {
+      "page": 7,
+      "file": "IMG_2530(3).jpeg",
+      "sha256": "bd46fe6da8c949986785bf8d4df5dd63aea4f97c995a50e2c1e59ce4da8be9dc",
+      "unchanged_bytes": true,
+      "cropping": false
+    },
+    {
+      "page": 7,
+      "file": "IMG_2534(3).jpeg",
+      "sha256": "f3f9cf813169cdfb680af305ce8e86a106f278fd7062b4229ba83bb53f6985dd",
+      "unchanged_bytes": true,
+      "cropping": false
+    },
+    {
+      "page": 8,
+      "file": "IMG_2545(1).jpeg",
+      "sha256": "454d0cbab4318dae68d56385b821bfb82614bee950d3df136d34373ea70e6157",
+      "unchanged_bytes": true,
+      "cropping": false
+    },
+    {
+      "page": 8,
+      "file": "IMG_2538(2).jpeg",
+      "sha256": "f6ab0ba8bfd02113e7845798ab427e807f9f8e8389e10b88324430a40080f182",
+      "unchanged_bytes": true,
+      "cropping": false
+    },
+    {
+      "page": 8,
+      "file": "IMG_2543(3).jpeg",
+      "sha256": "51e0e178f4ff65d0f3245ab5ad850877ae0ca1d5cc2d846e90c78d4df83dae30",
+      "unchanged_bytes": true,
+      "cropping": false
+    }
+  ]
+}
