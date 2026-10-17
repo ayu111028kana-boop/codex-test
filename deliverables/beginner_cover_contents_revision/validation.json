@@ -1,0 +1,25 @@
+{
+  "pages": 11,
+  "changed_pages": [
+    1,
+    2
+  ],
+  "unchanged_pages": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "pptx_changed_entries": [
+    "ppt/slides/slide1.xml",
+    "ppt/slides/slide2.xml"
+  ],
+  "pdf_unchanged_pages_pixel_identical": true,
+  "png_unchanged_pages_byte_identical": true,
+  "html_text_overflow": false
+}
