@@ -1,0 +1,14 @@
+{
+  "pages": 11,
+  "uniform_background_groups": [
+    2,
+    5,
+    10,
+    11
+  ],
+  "changed_shapes": 13,
+  "only_background_x_and_width_changed": true,
+  "vertical_padding_preserved": true,
+  "text_and_images_preserved": true,
+  "untouched_pdf_pages_pixel_identical": true
+}
