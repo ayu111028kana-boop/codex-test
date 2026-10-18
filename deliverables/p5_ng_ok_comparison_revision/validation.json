@@ -1,0 +1,17 @@
+{
+  "pages": 11,
+  "changed_pages": [
+    5
+  ],
+  "other_pdf_pages_pixel_identical": true,
+  "pptx_changed_entries": [
+    "ppt/slides/slide5.xml"
+  ],
+  "html_changed_sections": [
+    5
+  ],
+  "original_photos_preserved": true,
+  "source_p5": "user-provided screenshot",
+  "other_pages_source": "uniform_backgrounds_revision",
+  "drive_access": "403"
+}
