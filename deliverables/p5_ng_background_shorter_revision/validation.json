@@ -1,0 +1,14 @@
+{
+  "pages": 11,
+  "changed_pages": [
+    5
+  ],
+  "only_ng_background_x_and_width_changed": true,
+  "ng_backgrounds": 4,
+  "x_px": 140,
+  "width_px": 540,
+  "right_edge_shortened_px": 20,
+  "text_and_photo_positions_preserved": true,
+  "ok_side_unchanged": true,
+  "other_pdf_pages_pixel_identical": true
+}
