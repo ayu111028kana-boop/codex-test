@@ -1,0 +1,12 @@
+{
+  "pages": 11,
+  "removed_characters": "、",
+  "removed_count": 2,
+  "changed_pages": [
+    4
+  ],
+  "only_comma_bytes_removed_from_pptx": true,
+  "other_pdf_pages_pixel_identical": true,
+  "remaining_commas": 0,
+  "layout_unchanged": true
+}
