@@ -1,0 +1,14 @@
+{
+  "pages": 11,
+  "changed_pages": [
+    5
+  ],
+  "ng_background": true,
+  "ng_background_count": 4,
+  "other_pdf_pages_pixel_identical": true,
+  "pptx_changed_entries": [
+    "ppt/slides/slide5.xml"
+  ],
+  "text_overflow": false,
+  "remaining_commas": 0
+}
