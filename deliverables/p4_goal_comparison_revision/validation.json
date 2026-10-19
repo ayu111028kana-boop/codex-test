@@ -1,0 +1,14 @@
+{
+  "pages": 11,
+  "changed_pages": [
+    4
+  ],
+  "pptx_changed_entries": [
+    "ppt/slides/slide4.xml"
+  ],
+  "other_pdf_pages_pixel_identical": true,
+  "other_page_pngs_byte_identical": true,
+  "p5_unchanged": true,
+  "html_horizontal_overflow": false,
+  "p4_walrus_example_excluded": true
+}
