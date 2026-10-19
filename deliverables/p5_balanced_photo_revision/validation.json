@@ -1,0 +1,16 @@
+{
+  "pages": 11,
+  "changed_pages": [
+    5
+  ],
+  "future_photo_sha256": "955e61b6d3e5bc820824c9fd71af6956fd806f22cf8869e942f5a69cf4a9e167",
+  "future_photo_original_bytes": true,
+  "photos": 4,
+  "photo_height_px": 78,
+  "divider_center_x": 720,
+  "column_width_px": 560,
+  "text_preserved": true,
+  "remaining_commas": 0,
+  "other_pages_preserved": true,
+  "html_horizontal_overflow": false
+}
