@@ -1,0 +1,27 @@
+{
+  "pages": 11,
+  "changed_pages": [
+    3,
+    4,
+    5,
+    6,
+    8,
+    10,
+    11
+  ],
+  "unchanged_pages": [
+    1,
+    2,
+    7,
+    9
+  ],
+  "all_text_preserved": true,
+  "all_font_sizes_preserved": true,
+  "original_photo_bytes_and_geometry_preserved": true,
+  "title_dots_and_gradient_bands_preserved": true,
+  "protected_pages_pdf_pixel_identical": true,
+  "protected_pages_png_byte_identical": true,
+  "html_text_overflow": false,
+  "pptx_all_text_rendered": true,
+  "prototype_only": true
+}
