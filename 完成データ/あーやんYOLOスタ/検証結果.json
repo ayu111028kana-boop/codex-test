@@ -194,7 +194,7 @@
   ],
   "navigation_passed": true,
   "media": {
-    "time": 0.348149,
+    "time": 0.569653,
     "width": 1080,
     "height": 1920,
     "duration": 21.733333
@@ -223,9 +223,39 @@
       13,
       14
     ],
-    "only_changed_pixels": "three right edge strips x1165..1175",
-    "html_change": "15P container width 910 to 900 only",
-    "left": 265,
-    "max_text_right_padding": 21.996
+    "summary_geometry": [
+      {
+        "x": 265,
+        "y": 323,
+        "width": 875,
+        "height": 72,
+        "text_start": 303,
+        "font": "27px",
+        "right_gap": 83.0013427734375,
+        "single_line": true
+      },
+      {
+        "x": 265,
+        "y": 423,
+        "width": 875,
+        "height": 72,
+        "text_start": 303,
+        "font": "27px",
+        "right_gap": 194.001220703125,
+        "single_line": true
+      },
+      {
+        "x": 265,
+        "y": 523,
+        "width": 875,
+        "height": 72,
+        "text_start": 303,
+        "font": "27px",
+        "right_gap": 32.00152587890625,
+        "single_line": true
+      }
+    ],
+    "wording_unchanged": true,
+    "annotation_not_added": true
   }
 }
