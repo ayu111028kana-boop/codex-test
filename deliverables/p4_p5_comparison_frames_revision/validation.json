@@ -1,0 +1,19 @@
+{
+  "pages": 11,
+  "changed_pages": [
+    4,
+    5
+  ],
+  "frame_width_px": 584,
+  "frame_center_x_px": [
+    420,
+    1020
+  ],
+  "p4_frame_height_px": 330,
+  "p5_frame_height_px": 524,
+  "all_content_preserved_except_p4_heading_names": true,
+  "p5_photos_and_content_geometry_preserved": true,
+  "other_pdf_pages_pixel_identical": true,
+  "remaining_commas": 0,
+  "html_horizontal_overflow": false
+}
