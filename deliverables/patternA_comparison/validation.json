@@ -1,0 +1,14 @@
+{
+  "pattern": "A",
+  "pages": 11,
+  "changed_pages": [
+    4,
+    5
+  ],
+  "all_text_identical": true,
+  "all_original_photos_identical": true,
+  "other_pdf_pages_pixel_identical": true,
+  "html_text_overflow": false,
+  "pptx_all_text_rendered": true,
+  "remaining_commas": 0
+}
