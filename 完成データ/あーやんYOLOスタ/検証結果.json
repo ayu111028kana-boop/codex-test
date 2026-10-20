@@ -1,0 +1,205 @@
+{
+  "page_checks": [
+    {
+      "page": 1,
+      "unsafe": [],
+      "overlap": [],
+      "comma": false,
+      "rule": []
+    },
+    {
+      "page": 2,
+      "unsafe": [],
+      "overlap": [],
+      "comma": false,
+      "rule": [
+        {
+          "title": "目次",
+          "width": "79.99990844726562px"
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "unsafe": [],
+      "overlap": [],
+      "comma": false,
+      "rule": [
+        {
+          "title": "参加型企画で得られる2つのメリット",
+          "width": "716.7545166015625px"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "unsafe": [],
+      "overlap": [],
+      "comma": false,
+      "rule": [
+        {
+          "title": "自分の発信スタイルに合った企画を考える",
+          "width": "821.9981689453125px"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "unsafe": [],
+      "overlap": [],
+      "comma": false,
+      "rule": [
+        {
+          "title": "企画を始める前に決める4つのこと",
+          "width": "673.734619140625px"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "unsafe": [],
+      "overlap": [],
+      "comma": false,
+      "rule": [
+        {
+          "title": "企画を無理なく続けるコツ",
+          "width": "521.9990234375px"
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "unsafe": [],
+      "overlap": [],
+      "comma": false,
+      "rule": [
+        {
+          "title": "実例：5日間検証 × スタンプカード",
+          "width": "695.7626342773438px"
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "unsafe": [],
+      "overlap": [],
+      "comma": false,
+      "rule": [
+        {
+          "title": "スタンプカードの参加方法",
+          "width": "475.9996643066406px"
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "unsafe": [],
+      "overlap": [],
+      "comma": false,
+      "rule": [
+        {
+          "title": "実例：毎朝6時30分の肩回しライブ",
+          "width": "682.11865234375px"
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "unsafe": [],
+      "overlap": [],
+      "comma": false,
+      "rule": [
+        {
+          "title": "企画を始める前のアンケート",
+          "width": "564.9989013671875px"
+        }
+      ]
+    },
+    {
+      "page": 11,
+      "unsafe": [],
+      "overlap": [],
+      "comma": false,
+      "rule": [
+        {
+          "title": "ライブのハードルを下げる工夫",
+          "width": "606.998779296875px"
+        }
+      ]
+    },
+    {
+      "page": 12,
+      "unsafe": [],
+      "overlap": [],
+      "comma": false,
+      "rule": [
+        {
+          "title": "参加報告にリアクションする",
+          "width": "563.9989013671875px"
+        }
+      ]
+    },
+    {
+      "page": 13,
+      "unsafe": [],
+      "overlap": [],
+      "comma": false,
+      "rule": [
+        {
+          "title": "参加者の声を次の参加につなげる",
+          "width": "651.9986572265625px"
+        }
+      ]
+    },
+    {
+      "page": 14,
+      "unsafe": [],
+      "overlap": [],
+      "comma": false,
+      "rule": [
+        {
+          "title": "フォロワーさんの工夫をみんなに共有",
+          "width": "739.9984130859375px"
+        }
+      ]
+    },
+    {
+      "page": 15,
+      "unsafe": [],
+      "overlap": [],
+      "comma": false,
+      "rule": [
+        {
+          "title": "まとめ",
+          "width": "118.99981689453125px"
+        }
+      ]
+    }
+  ],
+  "unchanged_sections": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    9,
+    11,
+    12,
+    13,
+    14
+  ],
+  "navigation_passed": true,
+  "media": {
+    "time": 0.556553,
+    "width": 1080,
+    "height": 1920,
+    "duration": 21.733333
+  },
+  "javascript_errors": [],
+  "total_pdf_pages": 15,
+  "split_pdf_pages": [
+    5,
+    5,
+    5
+  ]
+}
