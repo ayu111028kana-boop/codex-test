@@ -178,7 +178,6 @@
   ],
   "unchanged_sections": [
     1,
-    3,
     4,
     5,
     6,
@@ -187,13 +186,13 @@
     9,
     10,
     11,
-    12,
     13,
-    14
+    14,
+    15
   ],
   "navigation_passed": true,
   "media": {
-    "time": 0.564869,
+    "time": 0.572591,
     "width": 1080,
     "height": 1920,
     "duration": 21.733333
@@ -208,7 +207,6 @@
   "additional_checks": {
     "unchanged_pixel_identical_pages": [
       1,
-      3,
       4,
       5,
       6,
@@ -217,13 +215,11 @@
       9,
       10,
       11,
-      12,
       13,
-      14
+      14,
+      15
     ],
-    "toc_wording_pending_screenshot": true,
-    "toc_width_unchanged": 660,
-    "toc_gap": 28,
-    "summary_alignment": "left"
+    "summary_left_aligned_preserved": true,
+    "toc_phrases_applied": true
   }
 }
