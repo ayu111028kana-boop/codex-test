@@ -1,0 +1,17 @@
+{
+  "page_count": 11,
+  "changed_page": 3,
+  "changed_rows": 3,
+  "delta_x_px": -32,
+  "delta_y_px": 0,
+  "text_sizes_alignment_spacing_and_wording_preserved": true,
+  "illustration_preserved": true,
+  "other_html_sections_identical": true,
+  "pptx_changed_entries": [
+    "ppt/slides/slide3.xml"
+  ],
+  "other_pdf_pages_pixel_identical": true,
+  "page3_pdf_differences_only_in_text_rows": true,
+  "minimum_illustration_text_gap_px": 55,
+  "source": "deliverables/visual_readability_trial"
+}
