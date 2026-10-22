@@ -177,29 +177,20 @@
     }
   ],
   "unchanged_sections": [
-    1,
     2,
-    3,
-    4,
-    5,
     6,
-    7,
-    8,
     9,
-    10,
-    11,
-    12,
-    13,
-    14
+    13
   ],
   "navigation_passed": true,
   "media": {
-    "time": 0.569653,
+    "time": 0.592408,
     "width": 1080,
     "height": 1920,
     "duration": 21.733333
   },
   "javascript_errors": [],
+  "page10_status": "complete: actual uploaded IMG_2997.jpeg",
   "total_pdf_pages": 15,
   "split_pdf_pages": [
     5,
@@ -208,54 +199,21 @@
   ],
   "additional_checks": {
     "unchanged_pixel_identical_pages": [
-      1,
       2,
-      3,
-      4,
-      5,
       6,
-      7,
-      8,
       9,
-      10,
-      11,
-      12,
-      13,
-      14
+      13
     ],
-    "summary_geometry": [
-      {
-        "x": 265,
-        "y": 323,
-        "width": 875,
-        "height": 72,
-        "text_start": 303,
-        "font": "27px",
-        "right_gap": 83.0013427734375,
-        "single_line": true
-      },
-      {
-        "x": 265,
-        "y": 423,
-        "width": 875,
-        "height": 72,
-        "text_start": 303,
-        "font": "27px",
-        "right_gap": 194.001220703125,
-        "single_line": true
-      },
-      {
-        "x": 265,
-        "y": 523,
-        "width": 875,
-        "height": 72,
-        "text_start": 303,
-        "font": "27px",
-        "right_gap": 32.00152587890625,
-        "single_line": true
-      }
+    "previous_draft_unchanged_except_page10": true,
+    "page10_actual_poll_image": "IMG_2997.jpeg",
+    "all_four_choices_and_percentages_preserved": [
+      36,
+      26,
+      17,
+      21
     ],
-    "wording_unchanged": true,
-    "annotation_not_added": true
+    "image_aspect_ratio_preserved": true,
+    "photo_clipped_to_viewport_inside_safe_area": true,
+    "old_time_option_boxes_removed": true
   }
 }
