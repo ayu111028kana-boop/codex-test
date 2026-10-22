@@ -1,0 +1,18 @@
+{
+  "pages": 11,
+  "changed_pages": [
+    2,
+    11
+  ],
+  "only_item_group_x_changed": true,
+  "p2_shift_right_px": 47.9921875,
+  "p11_shift_right_px": 35,
+  "p2_background_side_margins_px": 382.9921875,
+  "p11_background_side_margins_px": 255,
+  "other_pdf_pages_pixel_identical": true,
+  "other_html_pages_identical": true,
+  "render_size": [
+    1440,
+    810
+  ]
+}
