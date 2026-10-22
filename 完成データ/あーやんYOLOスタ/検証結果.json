@@ -177,14 +177,23 @@
     }
   ],
   "unchanged_sections": [
+    1,
     2,
+    3,
+    4,
+    5,
     6,
+    7,
     9,
-    13
+    11,
+    12,
+    13,
+    14,
+    15
   ],
   "navigation_passed": true,
   "media": {
-    "time": 0.592408,
+    "time": 0.563711,
     "width": 1080,
     "height": 1920,
     "duration": 21.733333
@@ -199,21 +208,46 @@
   ],
   "additional_checks": {
     "unchanged_pixel_identical_pages": [
+      1,
       2,
+      3,
+      4,
+      5,
       6,
+      7,
       9,
-      13
+      11,
+      12,
+      13,
+      14,
+      15
     ],
-    "previous_draft_unchanged_except_page10": true,
-    "page10_actual_poll_image": "IMG_2997.jpeg",
-    "all_four_choices_and_percentages_preserved": [
-      36,
-      26,
-      17,
-      21
-    ],
-    "image_aspect_ratio_preserved": true,
-    "photo_clipped_to_viewport_inside_safe_area": true,
-    "old_time_option_boxes_removed": true
+    "page8_pixel_change_only_number_column": true,
+    "page8_heading_description_positions_fonts_unchanged": true,
+    "page10_full_original_image": {
+      "natural": [
+        720,
+        1280
+      ],
+      "rendered": [
+        208.125,
+        370
+      ],
+      "image": [
+        230,
+        283,
+        438.125,
+        653
+      ],
+      "frame": [
+        230,
+        283,
+        438.125,
+        653
+      ],
+      "fit": "contain",
+      "overflow": "visible"
+    },
+    "source_jpeg_bytes_identical": true
   }
 }
