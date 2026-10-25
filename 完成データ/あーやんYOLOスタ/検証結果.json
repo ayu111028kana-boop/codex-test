@@ -194,7 +194,7 @@
   ],
   "navigation_passed": true,
   "media": {
-    "time": 0.565142,
+    "time": 0.574958,
     "width": 1080,
     "height": 1920,
     "duration": 21.733333
@@ -225,56 +225,6 @@
       15
     ],
     "before": {
-      "titles": [
-        {
-          "x": 194,
-          "y": 302,
-          "width": 452,
-          "height": 44
-        },
-        {
-          "x": 975,
-          "y": 302,
-          "width": 90,
-          "height": 44
-        }
-      ],
-      "frames": [
-        {
-          "x": 180,
-          "y": 285,
-          "width": 480,
-          "height": 310
-        },
-        {
-          "x": 780,
-          "y": 285,
-          "width": 480,
-          "height": 310
-        }
-      ],
-      "badges": [
-        {
-          "x": 397,
-          "y": 262,
-          "width": 46,
-          "height": 46
-        },
-        {
-          "x": 997,
-          "y": 262,
-          "width": 46,
-          "height": 46
-        }
-      ],
-      "flag": {
-        "x": 967.5,
-        "y": 451.1875,
-        "width": 105,
-        "height": 105
-      }
-    },
-    "after": {
       "titles": [
         {
           "x": 194,
@@ -324,7 +274,57 @@
         "height": 118
       }
     },
-    "title_offset_px": 8,
+    "after": {
+      "titles": [
+        {
+          "x": 194,
+          "y": 326,
+          "width": 452,
+          "height": 44
+        },
+        {
+          "x": 975,
+          "y": 326,
+          "width": 90,
+          "height": 44
+        }
+      ],
+      "frames": [
+        {
+          "x": 180,
+          "y": 285,
+          "width": 480,
+          "height": 310
+        },
+        {
+          "x": 780,
+          "y": 285,
+          "width": 480,
+          "height": 310
+        }
+      ],
+      "badges": [
+        {
+          "x": 397,
+          "y": 262,
+          "width": 46,
+          "height": 46
+        },
+        {
+          "x": 997,
+          "y": 262,
+          "width": 46,
+          "height": 46
+        }
+      ],
+      "flag": {
+        "x": 961,
+        "y": 463.1875,
+        "width": 118,
+        "height": 114.8125
+      }
+    },
+    "title_offset_px": 16,
     "frame_and_badge_geometry_unchanged": true,
     "all_pages_rendered_at": [
       1440,
