@@ -179,11 +179,13 @@
   "unchanged_sections": [
     1,
     2,
+    3,
+    4,
     6,
     7,
-    8,
     9,
     10,
+    11,
     12,
     13,
     14,
@@ -191,7 +193,7 @@
   ],
   "navigation_passed": true,
   "media": {
-    "time": 0.578738,
+    "time": 0.585661,
     "width": 1080,
     "height": 1920,
     "duration": 21.733333
@@ -208,221 +210,298 @@
     "unchanged_pages_pixel_identical": [
       1,
       2,
+      3,
+      4,
       6,
       7,
-      8,
       9,
       10,
+      11,
       12,
       13,
       14,
       15
     ],
-    "all_text_and_titles_unchanged": true,
-    "illustration_visible_heights_before": [
+    "all_text_unchanged": true,
+    "page5_equal_content_bands": [
       {
-        "page": 3,
-        "alt": "自信を持つ女性",
-        "visible_height": 96.8,
-        "box": [
-          118,
-          114.8125
-        ]
+        "card": {
+          "x": 140,
+          "y": 270,
+          "w": 275,
+          "h": 370,
+          "cy": 455
+        },
+        "heading": {
+          "x": 150,
+          "y": 299,
+          "w": 255,
+          "h": 44,
+          "cy": 321
+        },
+        "image": {
+          "x": 190,
+          "y": 359,
+          "w": 175,
+          "h": 150,
+          "cy": 434
+        },
+        "caption": {
+          "x": 150,
+          "y": 525,
+          "w": 255,
+          "h": 70,
+          "cy": 560
+        },
+        "text": {
+          "x": 202.484375,
+          "y": 526.25,
+          "w": 150.015625,
+          "h": 67.5,
+          "cy": 560
+        }
       },
       {
-        "page": 4,
-        "alt": "ストレッチする女性",
-        "visible_height": 57.83,
-        "box": [
-          70,
-          70
-        ]
+        "card": {
+          "x": 435,
+          "y": 270,
+          "w": 275,
+          "h": 370,
+          "cy": 455
+        },
+        "heading": {
+          "x": 445,
+          "y": 299,
+          "w": 255,
+          "h": 44,
+          "cy": 321
+        },
+        "image": {
+          "x": 485,
+          "y": 359,
+          "w": 175,
+          "h": 150,
+          "cy": 434
+        },
+        "caption": {
+          "x": 445,
+          "y": 525,
+          "w": 255,
+          "h": 70,
+          "cy": 560
+        },
+        "text": {
+          "x": 472.484375,
+          "y": 543.125,
+          "w": 200.015625,
+          "h": 33.75,
+          "cy": 560
+        }
       },
       {
-        "page": 4,
-        "alt": "自信を持つ女性",
-        "visible_height": 59.02,
-        "box": [
-          70,
-          70
-        ]
+        "card": {
+          "x": 730,
+          "y": 270,
+          "w": 275,
+          "h": 370,
+          "cy": 455
+        },
+        "heading": {
+          "x": 740,
+          "y": 299,
+          "w": 255,
+          "h": 44,
+          "cy": 321
+        },
+        "image": {
+          "x": 780,
+          "y": 359,
+          "w": 175,
+          "h": 150,
+          "cy": 434
+        },
+        "caption": {
+          "x": 740,
+          "y": 525,
+          "w": 255,
+          "h": 70,
+          "cy": 560
+        },
+        "text": {
+          "x": 804.984375,
+          "y": 526.25,
+          "w": 125.015625,
+          "h": 67.5,
+          "cy": 560
+        }
       },
       {
-        "page": 5,
-        "alt": "ノートと情報整理",
-        "visible_height": 69.47,
-        "box": [
-          88,
-          88
-        ]
-      },
-      {
-        "page": 5,
-        "alt": "スマホをタップする手",
-        "visible_height": 73.53,
-        "box": [
-          88,
-          88
-        ]
-      },
-      {
-        "page": 5,
-        "alt": "スマホを見る女性",
-        "visible_height": 73.56,
-        "box": [
-          88,
-          88
-        ]
-      },
-      {
-        "page": 11,
-        "alt": "椅子で運動する女性",
-        "visible_height": 59.58,
-        "box": [
-          70,
-          70
-        ]
-      },
-      {
-        "page": 11,
-        "alt": "スマホを見る女性",
-        "visible_height": 58.51,
-        "box": [
-          70,
-          70
-        ]
+        "card": {
+          "x": 1025,
+          "y": 270,
+          "w": 275,
+          "h": 370,
+          "cy": 455
+        },
+        "heading": {
+          "x": 1035,
+          "y": 299,
+          "w": 255,
+          "h": 44,
+          "cy": 321
+        },
+        "image": {
+          "x": 1075,
+          "y": 359,
+          "w": 175,
+          "h": 150,
+          "cy": 434
+        },
+        "caption": {
+          "x": 1035,
+          "y": 525,
+          "w": 255,
+          "h": 70,
+          "cy": 560
+        },
+        "text": {
+          "x": 1049.984375,
+          "y": 526.25,
+          "w": 225.015625,
+          "h": 67.5,
+          "cy": 560
+        }
       }
     ],
-    "illustration_visible_heights_after": [
+    "page5_caption_text_centers_identical": true,
+    "page8_number_and_copy_rhythm": [
       {
-        "page": 3,
-        "alt": "自信を持つ女性",
-        "visible_height": 150.08,
-        "box": [
-          210,
-          178
-        ]
+        "row": {
+          "x": 660,
+          "y": 216,
+          "w": 490,
+          "h": 96
+        },
+        "badge": {
+          "x": 882,
+          "y": 183,
+          "w": 46,
+          "h": 46
+        },
+        "heading": {
+          "x": 698,
+          "y": 233,
+          "w": 422,
+          "h": 28.59375
+        },
+        "description": {
+          "x": 698,
+          "y": 266.59375,
+          "w": 422,
+          "h": 26.390625
+        }
       },
       {
-        "page": 4,
-        "alt": "ストレッチする女性",
-        "visible_height": 111.52,
-        "box": [
-          200,
-          135
-        ]
+        "row": {
+          "x": 660,
+          "y": 329,
+          "w": 490,
+          "h": 96
+        },
+        "badge": {
+          "x": 882,
+          "y": 296,
+          "w": 46,
+          "h": 46
+        },
+        "heading": {
+          "x": 698,
+          "y": 346,
+          "w": 422,
+          "h": 28.59375
+        },
+        "description": {
+          "x": 698,
+          "y": 379.59375,
+          "w": 422,
+          "h": 26.390625
+        }
       },
       {
-        "page": 4,
-        "alt": "自信を持つ女性",
-        "visible_height": 113.82,
-        "box": [
-          200,
-          135
-        ]
+        "row": {
+          "x": 660,
+          "y": 442,
+          "w": 490,
+          "h": 96
+        },
+        "badge": {
+          "x": 882,
+          "y": 409,
+          "w": 46,
+          "h": 46
+        },
+        "heading": {
+          "x": 698,
+          "y": 459,
+          "w": 422,
+          "h": 28.59375
+        },
+        "description": {
+          "x": 698,
+          "y": 492.59375,
+          "w": 422,
+          "h": 26.390625
+        }
       },
       {
-        "page": 5,
-        "alt": "考えて企画する女性",
-        "visible_height": 126.35,
-        "box": [
-          175,
-          150
-        ]
-      },
-      {
-        "page": 5,
-        "alt": "自分の変化を喜ぶ女性",
-        "visible_height": 128.67,
-        "box": [
-          175,
-          150
-        ]
-      },
-      {
-        "page": 5,
-        "alt": "スマホを見る女性",
-        "visible_height": 125.38,
-        "box": [
-          175,
-          150
-        ]
-      },
-      {
-        "page": 5,
-        "alt": "自信を持つ女性",
-        "visible_height": 126.47,
-        "box": [
-          175,
-          150
-        ]
-      },
-      {
-        "page": 11,
-        "alt": "椅子で運動する女性",
-        "visible_height": 123.42,
-        "box": [
-          220,
-          145
-        ]
-      },
-      {
-        "page": 11,
-        "alt": "スマホを見る女性",
-        "visible_height": 121.21,
-        "box": [
-          220,
-          145
-        ]
+        "row": {
+          "x": 660,
+          "y": 555,
+          "w": 490,
+          "h": 96
+        },
+        "badge": {
+          "x": 882,
+          "y": 522,
+          "w": 46,
+          "h": 46
+        },
+        "heading": {
+          "x": 698,
+          "y": 572,
+          "w": 422,
+          "h": 28.59375
+        },
+        "description": {
+          "x": 698,
+          "y": 605.59375,
+          "w": 422,
+          "h": 26.390625
+        }
       }
     ],
-    "page5_cards_and_caption_alignment": [
+    "page8_actual_visible_text_padding": [
       {
-        "x": 140,
-        "y": 270,
-        "w": 275,
-        "h": 370,
-        "captionY": 535,
-        "captionBottom": 605,
-        "headingY": 305,
-        "numberCenterY": 270,
-        "numberCenterX": 277.5
+        "top": 20,
+        "bottom": 20,
+        "badge_to_visible_heading_gap": 7
       },
       {
-        "x": 435,
-        "y": 270,
-        "w": 275,
-        "h": 370,
-        "captionY": 535,
-        "captionBottom": 605,
-        "headingY": 305,
-        "numberCenterY": 270,
-        "numberCenterX": 572.5
+        "top": 20,
+        "bottom": 20,
+        "badge_to_visible_heading_gap": 7
       },
       {
-        "x": 730,
-        "y": 270,
-        "w": 275,
-        "h": 370,
-        "captionY": 535,
-        "captionBottom": 605,
-        "headingY": 305,
-        "numberCenterY": 270,
-        "numberCenterX": 867.5
+        "top": 20,
+        "bottom": 20,
+        "badge_to_visible_heading_gap": 7
       },
       {
-        "x": 1025,
-        "y": 270,
-        "w": 275,
-        "h": 370,
-        "captionY": 535,
-        "captionBottom": 605,
-        "headingY": 305,
-        "numberCenterY": 270,
-        "numberCenterX": 1162.5
+        "top": 21,
+        "bottom": 20,
+        "badge_to_visible_heading_gap": 8
       }
     ],
-    "page5_captions_inside_cards": true,
     "all_pages_rendered_at": [
       1440,
       810
