@@ -189,12 +189,11 @@
     10,
     11,
     12,
-    13,
     15
   ],
   "navigation_passed": true,
   "media": {
-    "time": 0.567153,
+    "time": 0.594183,
     "width": 1080,
     "height": 1920,
     "duration": 21.733333
@@ -208,16 +207,14 @@
     5
   ],
   "additional_checks": {
-    "changed_page": 14,
-    "other14_pages_unchanged": true,
-    "text_frame_and_layout_positions_unchanged": true,
-    "skin_and_clothes_unfilled": true,
-    "transparent_interior_visually_reviewed": true,
-    "three_distinct_hairstyles": [
-      "前髪ありボブ",
-      "長いポニーテール",
-      "短いショート"
+    "changed_assets": [
+      "13P①",
+      "13P②",
+      "14P①"
     ],
+    "other13_pages_unchanged": true,
+    "text_frame_number_positions_unchanged": true,
+    "existing_people_unchanged": true,
     "render_size": [
       1440,
       810
