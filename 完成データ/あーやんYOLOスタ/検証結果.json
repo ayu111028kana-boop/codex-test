@@ -180,18 +180,21 @@
     1,
     2,
     3,
+    4,
     5,
+    6,
     7,
     8,
     9,
     10,
+    11,
     12,
     13,
     15
   ],
   "navigation_passed": true,
   "media": {
-    "time": 0.565841,
+    "time": 0.567153,
     "width": 1080,
     "height": 1920,
     "duration": 21.733333
@@ -205,91 +208,19 @@
     5
   ],
   "additional_checks": {
-    "changed_pages": [
-      4,
-      6,
-      11,
-      14
+    "changed_page": 14,
+    "other14_pages_unchanged": true,
+    "text_frame_and_layout_positions_unchanged": true,
+    "skin_and_clothes_unfilled": true,
+    "transparent_interior_visually_reviewed": true,
+    "three_distinct_hairstyles": [
+      "前髪ありボブ",
+      "長いポニーテール",
+      "短いショート"
     ],
-    "other_11_pages_pixel_identical": [
-      1,
-      2,
-      3,
-      5,
-      7,
-      8,
-      9,
-      10,
-      12,
-      13,
-      15
-    ],
-    "all_text_fonts_frames_numbers_and_layout_coordinates_unchanged": true,
-    "preserved_illustrations": [
-      "4P右お手本型",
-      "11P右アフタートーク",
-      "14P①届くスマホ"
-    ],
-    "actual_illustration_sizes": [
-      {
-        "page": 4,
-        "name": "異なる二人のハイタッチ",
-        "visible_height": 177.99,
-        "visible_width": 220.72
-      },
-      {
-        "page": 4,
-        "name": "経験を教える女性",
-        "visible_height": 176.22,
-        "visible_width": 152.15
-      },
-      {
-        "page": 6,
-        "name": "繰り返しの週間予定",
-        "visible_height": 139.99,
-        "visible_width": 296.45
-      },
-      {
-        "page": 6,
-        "name": "開始点からゴールへの期間",
-        "visible_height": 138.43,
-        "visible_width": 408.1
-      },
-      {
-        "page": 11,
-        "name": "一人で肩を回す女性",
-        "visible_height": 175.0,
-        "visible_width": 237.89
-      },
-      {
-        "page": 11,
-        "name": "リラックスして話す女性",
-        "visible_height": 175.0,
-        "visible_width": 238.74
-      },
-      {
-        "page": 14,
-        "name": "参加報告が届くスマホ",
-        "visible_height": 145.0,
-        "visible_width": 161.91
-      },
-      {
-        "page": 14,
-        "name": "スマホに向けてライブ配信",
-        "visible_height": 145.0,
-        "visible_width": 198.81
-      },
-      {
-        "page": 14,
-        "name": "三人へ広がるアイデア",
-        "visible_height": 144.99,
-        "visible_width": 175.92
-      }
-    ],
-    "all_pages_rendered_at": [
+    "render_size": [
       1440,
       810
-    ],
-    "four_pages_reviewed_together": true
+    ]
   }
 }
